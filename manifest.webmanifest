@@ -1,0 +1,22 @@
+{
+  "name": "PWA TODO",
+  "short_name": "PWA TODO",
+  "start_url": "index.html?standalone=true",
+  "description": "PWA TODO",
+  "display": "standalone",
+  "background_color": "rgb(31,162,243)",
+  "theme_color": "rgb(31,162,243)",
+  "icons": [
+    {
+      "sizes": "144x144",
+      "src": "https://cdn.glitch.com/ebdd6b0a-f624-44c6-a322-ee8ce6795c1f%2Ficon-144x144.png",
+      "type": "image/png"
+    },
+    {
+      "sizes": "512x512",
+      "src": "https://cdn.glitch.com/ebdd6b0a-f624-44c6-a322-ee8ce6795c1f%2Ficon-512x512.png?",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
